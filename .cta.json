@@ -1,0 +1,21 @@
+{
+  "projectName": "CommitIQ",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "pnpm",
+  "addOnOptions": {},
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "nitro",
+    "start",
+    "workos",
+    "convex",
+    "sentry",
+    "compiler",
+    "shadcn",
+    "t3env"
+  ]
+}
